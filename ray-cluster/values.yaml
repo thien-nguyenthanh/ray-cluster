@@ -4,7 +4,7 @@
 
 image:
   repository: rayproject/ray
-  tag: latest
+  tag: nightly
   pullPolicy: IfNotPresent
 
 nameOverride: "ray"
